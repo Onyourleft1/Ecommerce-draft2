@@ -33,3 +33,16 @@
    1. define reducer
    2. update fetch data
    3. get state from useReducer
+9. Add bootstrap UI framework
+   1. npm i react-bootstrap bootstrap
+   2. update App.js
+10. Create Product and Rating Component
+
+1)  Create Rating Component
+2)  Create Product Component
+3)  Use Rating component in Product component
+
+11. Create Product Details Screen
+
+1) fetch product from backend
+2) create 3 columns for image, info and action
